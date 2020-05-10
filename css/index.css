@@ -1,0 +1,78 @@
+.home{
+    background-image: url('../images/bg_home.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#logo-img{
+    padding-top: 15%;
+    margin-left: 47%;
+}
+#logo-txt p{
+    font-size: 3.5em;
+    color: white;
+    text-align: center;
+}
+#logo-txt-sm{
+    font-size: 1em;
+}
+.txt-sm{
+    font-size: .5em;
+}
+#mouse{
+    height: 50px;
+    margin-left: 49%;
+    margin-top: 13%;
+    background-image: url('../images/mouse.png');
+    background-repeat: no-repeat;
+}
+#about p{
+    text-align: center;
+}
+#about-title{
+    font-size: 2em;
+}
+.services{
+    height: 400px;
+    background-image: url('../images/services.jpg');
+    background-size: 100% 100%;
+    color: white;
+    padding-top: 125px;
+}
+.services p{
+    text-align: center;
+}
+#services-title{
+    font-size: 2.5em;
+}
+#container-fluid{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+#what-do{
+    font-size: 2.5em;
+    text-align: center;
+}
+#port-imgs img{
+    max-width: 100%;
+}
+#port-imgs{
+    margin-right: 20%;
+}
+.img-txt p{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.contact{
+    background-image: url('../images/c_image.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 400px;
+    color: white;
+    font-size: 2.5em;
+}
+.contact p{
+    text-align: center;
+}
