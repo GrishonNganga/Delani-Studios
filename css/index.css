@@ -58,7 +58,8 @@
     max-width: 100%;
 }
 #port-imgs{
-    margin-right: 20%;
+    margin-right: 18%;
+    margin-left: 18%;
 }
 .img-txt p{
     font-size: 1.2em;
@@ -79,5 +80,17 @@
 .form-control{
     border: 2px solid white;
     background-color: transparent;
+}
+.form-control::placeholder{
     color: white;
+}
+input[type="text"]::placeholder, input[type="email"]::placeholder{
+    color: white;
+}
+#social > .col{
+    flex-grow: unset;
+}
+.outro p{
+    text-align: center;
+    font-weight: bold;
 }
