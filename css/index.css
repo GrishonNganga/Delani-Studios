@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 .home{
     background-image: url('../images/bg_home.jpg');
     background-repeat: no-repeat;
@@ -24,6 +27,15 @@
     margin-top: 13%;
     background-image: url('../images/mouse.png');
     background-repeat: no-repeat;
+    animation: bounce  1s infinite alternate;
+}
+@keyframes bounce{
+    from{
+        transform: translateY(0px);
+    }
+    to{
+        transform: translateY(-15px);
+    }
 }
 #about p{
     text-align: center;
@@ -61,6 +73,12 @@
     margin-right: 18%;
     margin-left: 18%;
 }
+.carousel-caption{
+    display: none;
+}
+#port-imgs img:hover{
+    opacity: .6;
+}
 .img-txt p{
     font-size: 1.2em;
     font-weight: bold;
@@ -93,4 +111,10 @@ input[type="text"]::placeholder, input[type="email"]::placeholder{
 .outro p{
     text-align: center;
     font-weight: bold;
+}
+#design-txt, #development-txt, #product-txt{
+    display: none;
+    margin-left: -25%;
+    padding-left: 8%;
+    padding-right: 8%;
 }
