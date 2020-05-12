@@ -4,16 +4,15 @@
 ## Description
 This site was created to practice HTML, CSS, JS, and jQuery. To show that I have acquired fundamental skills and that I can clone a website if provided the assets it requires.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+` git clone https://github.com/GrishonNganga/Delani-Studios `
+` cd /Delani-Studios`
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+There are no known bugs from latest release. If any bugs are noticed please reach out to me. Details on Support and Contact details.
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+* HTML.
+* CSS and Bootsrap Framework.
+* Javascript.
+* jQuery.
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
