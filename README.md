@@ -1,8 +1,8 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# Delani Sudio
+#### This project is just a clone of the original Delani Studio as Moringa's Week 3 IP.
+#### By **Grishon Ng'ang'a**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This site was created to practice HTML, CSS, JS, and jQuery. To show that I have acquired fundamental skills and that I can clone a website if provided the assets it requires.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
