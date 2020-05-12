@@ -99,6 +99,9 @@ html{
     border: 2px solid white;
     background-color: transparent;
 }
+.danger{
+    border: 2px solid red;
+}
 .form-control::placeholder{
     color: white;
 }
@@ -117,4 +120,9 @@ input[type="text"]::placeholder, input[type="email"]::placeholder{
     margin-left: -25%;
     padding-left: 8%;
     padding-right: 8%;
+}
+.toast{
+    color: black;
+    display: none;
+    
 }
