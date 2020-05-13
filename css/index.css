@@ -1,6 +1,7 @@
-/* @media(min-width: 250px) and (max-width: 500px){
-    
-} */
+body {
+    font-family: 'Balsamiq Sans', serif;
+    font-size: 1.3em;
+  }
 html{
     scroll-behavior: smooth;
 }
